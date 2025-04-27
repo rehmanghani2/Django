@@ -25,7 +25,8 @@ Verify installation: pip --version or pip3 --version
 ###### Setup Instructions
 ## 1. Clone the Repository
 bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/rehmanghani2/Django.git
+)
 cd repository-name
 ## 2. Create a Virtual Environment (Recommended)
 bash
